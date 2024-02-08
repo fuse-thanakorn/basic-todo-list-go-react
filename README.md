@@ -28,15 +28,3 @@ To get started with the project, follow these steps:
 4. Connect the backend and frontend to interact with each other.
 5. Customize and enhance the application as needed.
 
-## How to Contribute
-
-Contributions are welcome! If you want to contribute to this project, feel free to:
-
-- Submit bug reports or feature requests.
-- Implement new features or improvements.
-- Provide feedback on the existing features.
-- Share the project with others who might be interested.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
