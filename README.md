@@ -17,8 +17,7 @@ The application offers the following functionalities:
 
 - **Backend:** Go
 - **Frontend:** React
-- **Database:** [Provide Database Name and Technology]
-
+- **Database:** -
 ## Getting Started
 
 To get started with the project, follow these steps:
