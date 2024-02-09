@@ -1,4 +1,5 @@
 # 📝 Basic Go and React Todo List 🚀
+![image](https://github.com/fuse-thanakorn/basic-todo-list-go-react/assets/83936396/fa6314c4-d40d-4abd-a327-f179d3389cab)
 
 Welcome to the Basic Go and React Todo List project! This project provides a simple yet efficient todo list application implemented using Go for the backend and React for the frontend.
 
@@ -15,8 +16,8 @@ The application offers the following functionalities:
 
 ## Technologies Used
 
-- **Backend:** Go
-- **Frontend:** React
+- **Backend:** Go ( with fiber )
+- **Frontend:** React ( with Mantine UI )
 - **Database:** -
 ## Getting Started
 
